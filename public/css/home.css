@@ -17,6 +17,7 @@
 .home #promo{
     text-align: center;
     margin: 15px 0;
+    font-weight: 800;
 }
 /*menu*/
 .home nav ul{
@@ -27,6 +28,7 @@
 }
 .home nav li a{
     color: black;
+    font-weight: 600;
 }
 .home .burger-menu {
   display: flex;
