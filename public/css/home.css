@@ -1,0 +1,22 @@
+.home{
+    background-color: var(--color-amarillo);
+}
+
+.home h3{
+    font-size: 24px;
+}
+.home p{
+    font-size: 12px;
+}
+.home .precio{
+    font-size: 18px;
+}
+.home .descuentos{
+    font-size: 16px;
+}
+.home article h4{
+    font-size: 16px;
+}
+.home nav li{
+    list-style: none;
+}
